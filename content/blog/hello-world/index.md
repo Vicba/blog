@@ -1,6 +1,6 @@
 ---
 title: First blog post
-date: "2023-04-15T22:12:03.284Z"
+date: "2023-04-13T22:12:03.284Z"
 description: "Introduction to my blog."
 ---
 
@@ -46,3 +46,6 @@ Feel free to reach out to me if you have any questions or notice any grammar mis
 Stay tuned for my first interesting post about my trip to San Francisco.
 
 [LinkedIn](https://www.linkedin.com/in/victor-barra)    [Twitter](https://twitter.com/VictorBarraa)    [Email](mailto:victor.barra@live.be)
+
+
+![Alt Text](https://media.tenor.com/kqdONR05QJ0AAAAC/lets-go.gif)
