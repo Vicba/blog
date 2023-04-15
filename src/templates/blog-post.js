@@ -9,7 +9,7 @@ const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
 }) => {
-  const siteTitle = site.siteMetadata?.title || `Title`
+  const siteTitle = `Victor Barra blog`
 
   return (
     <Layout location={location} title={siteTitle}>
