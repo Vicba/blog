@@ -47,4 +47,5 @@ const Seo = ({ description, title, children }) => {
   )
 }
 
+
 export default Seo
