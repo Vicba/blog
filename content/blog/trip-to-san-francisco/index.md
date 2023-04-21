@@ -16,7 +16,7 @@ Tuesday, April 4th, was the first and busiest day of our trip. Our plan was to l
 
 Our first stop was **Palo Alto Networks**, where we were welcomed by a lovely lady named Bree, who works there as a recruiter. She gave a presentation where she explained what the company does and what the company values. After that, she invited three new-grad tech employees to answer questions about their first job, how they got the job, etc. We later got a guided tour around the office.
 
-By the time we were done with the tour, it was almost noon, so we stopped at In-n-Out for lunch. It was my first experience, and it was really nice, but I didn't like the fries as much (maybe because I'm used to the French fries in Europe).
+By the time we were done with the tour, it was almost noon, so we stopped at In-n-Out for lunch. It was my first experience, and it was really nice, but I didn't like the fries (maybe because I'm used to the French fries) as much as in Belgium.
 
 Our second company visit was to **Microsoft**, which was something I was looking forward to.
 We were expected by Nills, a Belgian working for Microsoft in the Bay Area. He told us about his experience moving to the US and gave some tips and tricks about getting a job in the US. At the end, he talked a bit about the latest developments, e.g., GitHub Copilot and Microsoft's low code platform, as AI is a hot topic at the moment.
@@ -50,7 +50,7 @@ On Thursday, April 6th, we had a more touristic day. We left our hotel at 8am an
 
 We didn't stay that long because we were also expected by Odoo around 10am. **Odoo** is one of Belgium's biggest tech companies and mainly focuses on ERP (Enterprise Resource Planning). We had a presentation and some aftertalks with the director of Odoo America. They offered us some lunch, which we greatly appreciated.
 
-After lunch, we went to the next big tech company, **Oracle**. Once we arrived, we saw the big offices and a beautiful catamaran on the lake next to it. We were received by Scott, an operational manager at Oracle Academy. He let us into a fancy presentation room where we had some drinks and cookies. Later on, he explained how to use the online Oracle Academy and what it has to offer. The second speaker, Ashih, a VP of Product Management/Strategy, taught us about APEX, a low-code platform that makes it very easy to customize any project. Our last speaker, Samar, who works for Oracle Analytics Cloud, talked about their analytics cloud products and big data visualizations.
+After lunch, we went to the next big tech company, **Oracle**. Once we arrived, we saw the big offices and a beautiful catamaran on the lake next to it. We were received by Scott, an operational manager at Oracle Academy and our first speaker. He let us into a fancy presentation room where we had some drinks and cookies. Later on, he explained how to use the online Oracle Academy and what it has to offer. The second speaker, Ashih, a VP of Product Management/Strategy, taught us about APEX, a low-code platform that makes it very easy to customize any project. Our last speaker, Samar, who works for Oracle Analytics Cloud, talked about their analytics cloud products and big data visualizations.
 
 At 3pm, we left the Bay Area to go to Dolores Park, a park on the side of a hill with some views of the city. There we were dropped off and were free for the afternoon/evening.
 
