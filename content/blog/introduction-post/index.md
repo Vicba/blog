@@ -48,4 +48,4 @@ Stay tuned for my first interesting post about my trip to San Francisco.
 [LinkedIn](https://www.linkedin.com/in/victor-barra)    [Twitter](https://twitter.com/VictorBarraa)    [Email](mailto:victor.barra@live.be)
 
 
-![Alt Text](https://media.tenor.com/kqdONR05QJ0AAAAC/lets-go.gif)
+<img id="gif" src="https://media.tenor.com/kqdONR05QJ0AAAAC/lets-go.gif"/>

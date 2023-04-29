@@ -320,6 +320,10 @@ a:focus {
 /* Media queries */
 
 @media (max-width: 42rem) {
+  #gif{
+    width: 90%
+  }
+
   blockquote {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);

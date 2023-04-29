@@ -70,4 +70,4 @@ If you have any thoughts or remarks, feel free to reach out! I'm always open for
 [LinkedIn](https://www.linkedin.com/in/victor-barra)    [Twitter](https://twitter.com/VictorBarraa)    [Email](mailto:victor.barra@live.be)
 
 
-![Alt Text](https://media.tenor.com/t60AEyw2uLAAAAAd/to-the.gif)
+<img id="gif" src="https://media.tenor.com/t60AEyw2uLAAAAAd/to-the.gif"/>
