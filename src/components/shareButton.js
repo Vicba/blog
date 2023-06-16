@@ -3,9 +3,7 @@ import React from 'react'
 import ShareIcon from '../images/share-icon.png'
 
 function ShareButton({location}) {
-    
-    console.log(location.href)
-    // button with share api for the page where this button is
+
     const Share = async () => {
         const data = {
             title: 'Victor Barra blog',
