@@ -13,7 +13,7 @@ function ShareButton({location}) {
         try{
             await navigator.share(data)
         } catch(err) {
-            alert(err.message)
+            console.log(err.message)
         }
 
     }
