@@ -320,8 +320,8 @@ a:focus {
 /* Media queries */
 
 @media (max-width: 42rem) {
-  #gif{
-    width: 90%
+  #gif {
+    width: 90%;
   }
 
   blockquote {
