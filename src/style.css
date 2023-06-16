@@ -317,6 +317,31 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+.share-button-container {
+  margin: 15px 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shareButton {
+  cursor: pointer;
+  padding: 4px 8px;
+  color: #000;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  border: 1px solid #000;
+  border-radius: 4px;
+}
+
+.shareIcon {
+  height: 16px;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
