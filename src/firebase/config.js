@@ -12,8 +12,6 @@ const firebaseConfig = {
   appId: process.env.GATSBY_APP_ID,
 };
 
-console.log(firebaseConfig)
-
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 
