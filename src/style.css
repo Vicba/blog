@@ -354,6 +354,11 @@ a:focus {
   margin: 8px;
 }
 
+.blog-subscription p {
+  font-size: 12px;
+  margin: 8px 0;
+}
+
 .blog-subscription form {
   display: flex;
   flex-direction: row;
