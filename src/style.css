@@ -245,7 +245,7 @@ a:focus {
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
-  margin-bottom: var(--spacing-20);
+  margin-bottom: var(--spacing-10);
 }
 
 .global-header {
@@ -342,6 +342,49 @@ a:focus {
   height: 16px;
 }
 
+.blog-subscription {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+.blog-subscription h3 {
+  margin: 8px;
+}
+
+.blog-subscription form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.blog-subscription form input {
+  font-size: 14px;
+  padding: 8px 15px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  focus: none;
+}
+
+.blog-subscription form button {
+  font-size: 14px;
+  padding: 8px 15px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  background-color: #1e293b;
+  color: #fff;
+  cursor: pointer;
+}
+
+.blog-subscription form button:hover {
+  background-color: #000;
+  transition: 0.3s ease-in-out;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
@@ -356,5 +399,9 @@ a:focus {
   ul,
   ol {
     list-style-position: inside;
+  }
+  .blog-subscription h3 {
+    font-size: 24px;
+    margin-bottom: 8px;
   }
 }

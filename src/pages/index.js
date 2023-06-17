@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import BlogSubscription from "../components/blog-subscription"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = `Welcome to my blog`
@@ -25,6 +26,8 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Bio />
+      <BlogSubscription />
+      <hr />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
