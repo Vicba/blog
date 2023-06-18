@@ -5,6 +5,8 @@ import { useRef } from 'react'
 import {db, timestamp} from "../firebase/config"
 import { collection, addDoc, getDocs, query, where} from "firebase/firestore"; 
 
+import { sendMail } from '../utils/sendEmail';
+
 export default function BlogSubscription() {
     const [message, setMessage] = useState(null)
 
@@ -26,6 +28,7 @@ export default function BlogSubscription() {
             createdAt: timestamp.now(),
           });
           setMessage("Email subscribed successfully!");
+          sendMail({email})
         } else {
           setMessage("Email already subscribed.");
         }
