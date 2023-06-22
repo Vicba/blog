@@ -34,7 +34,7 @@ Blogging to document my life is a good way to reflect and have a place to store 
 
 
 ## When is the next post?
-I haven't made a schedule for posting yet. I'll probably write when I have a combination of free time and ideas or thoughts I want to share with the world.
+I haven't made a schedule for posting yet. I'll probably write when I have a combination of free time and ideas or thoughts that I want to share with the world.
 
 
 

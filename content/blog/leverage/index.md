@@ -58,8 +58,7 @@ Avi Shiffman is a great example of leveraging media for success. At just 18 year
 
 
 
-
-
+## Conclusion
 
 I think that by these points of leverage you can accelerate growth and achieve goals more quickly. Whether you're looking to learn new skills, expand your network or gain new insights.
 With technology and media you can already get quite far. Just think twice before you share something with the world.

@@ -3,7 +3,7 @@ title: The importance of design
 date: "2023-05-17T15:31:12.3675"
 ---
 
-Design is all around us, all the time. Whether its a website on the internet, shape of your chair or the radio button in you're car. You can't escape it! Design has a big impact and is involved in everything we do. It affects how we feel, make decisions and see the world. 
+Design is all around us, all the time. Whether its a website on the internet, shape of your chair or the radio button in you're car. You can't escape it! Design has a big impact and is involved in everything we see. It affects how we feel, make decisions and see the world. 
 
 ---
 
@@ -27,7 +27,7 @@ Colors: Colors are like magic in design. Designers pick vibrant and bold colors 
 
 A thoughtfully designed website is intuitive, easy to navigate, and enjoyable to use. Similarly, well-designed physical products consider ergonomics, functionality, and accessibility, ensuring that users have a seamless and satisfying experience.
 
-A great example is **Airbnb**, where two out of the three founders were professional designers. They implemented a lot of images to the app and gave it a simplistic design.
+A great example is **Airbnb**, where two out of the three founders were professional designers. They implemented a lot of images to the app and gave it a simplistic design. The beautiful images from each property makes you desire to go to one of those places.
 
 
 

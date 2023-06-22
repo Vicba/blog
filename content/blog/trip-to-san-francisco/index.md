@@ -5,24 +5,22 @@ date: "2023-04-15T23:46:37.121Z"
 
 From April 3rd to 10th, I had the opportunity to travel to San Francisco with my college, Howest University for Applied Sciences. Our group consisted of 60 people, including 30 studying Devine, 15 studying MCT in Kortrijk, and 15 from Applied Computer Science in Bruges, which is the program I am a part of. This trip was primarily organized for seniors, but I was lucky enough to be the only second-year student allowed to come along.
 
-The purpose of the trip was to explore American culture, innovation, and visit big tech companies in the Bay Area. In this blog post, I'll only write about the most important parts of the trip, as things like "what did you eat for breakfast" aren't really noteworthy and mostly the same.
+The purpose of the trip was to explore the American culture, innovation, and visit big tech companies in the Bay Area. In this blog post, I'll only write about the most important parts of the trip, as things like "what did you eat for breakfast" aren't really noteworthy and mostly the same.
 
 ---
 
 ## April 4th (Big Tech Visits & NBA)
-Tuesday 4th was the first and most busiest day. 
-
 Tuesday, April 4th, was the first and busiest day of our trip. Our plan was to leave the hostel at 7:30 AM to go to the Golden Gate Bridge. Unfortunately, everyone was already awake due to the jetlag from our 11-hour flight. Once we arrived, we walked the full 1.7 miles or 2.7 kilometers and enjoyed the beautiful view. I even helped some Chinese tourists take a picture before we went on a private bus ride to the Bay Area.
 
-Our first stop was **Palo Alto Networks**, where we were welcomed by a lovely lady named Bree, who works there as a recruiter. She gave a presentation where she explained what the company does and what the company values. After that, she invited three new-grad tech employees to answer questions about their first job, how they got the job, etc. We later got a guided tour around the office.
+Our first stop was **Palo Alto Networks**, where we were welcomed by a lovely lady named Bree, who works there as a recruiter. She gave a presentation about what the company does and what it values. After that, she invited three new-grad tech employees to answer some questions about their first job, how they got the job, etc. We later got a guided tour around the office.
 
-By the time we were done with the tour, it was almost noon, so we stopped at In-n-Out for lunch. It was my first experience, and it was really nice, but I didn't like the fries (maybe because I'm used to the French fries) as much as in Belgium.
+By the time we were done with the tour, it was almost noon, so we stopped at an In-n-Out for lunch. It was my first experience, and it was really nice, but I didn't like the fries (maybe because I'm used to the French fries) as much as in Belgium.
 
 Our second company visit was to **Microsoft**, which was something I was looking forward to.
 We were expected by Nills, a Belgian working for Microsoft in the Bay Area. He told us about his experience moving to the US and gave some tips and tricks about getting a job in the US. At the end, he talked a bit about the latest developments, e.g., GitHub Copilot and Microsoft's low code platform, as AI is a hot topic at the moment.
 
 
-At 3 PM, we went to our last stop before going back downtown, which was the **Apple Visitor Centre**. To be honest, this was quite a disappointment. We had a great small tour, but it wasn't anything special. There was a store on the ground level, a terrace on top, and some info about the big Apple Park. The office is very secured and not open to the public. The surroundings are really beautiful, and it evoked the exact feeling I have when I think about the company. I've always admired the innovation and simplicity of Apple.
+At 3 PM, we went to our last stop before going back downtown, which was the **Apple Visitor Centre**. To be honest, this was quite a disappointment. We had a great short tour, but it wasn't anything special. There was a store on the ground level, a terrace on top, and some info about Apple Park. The office is very secured and not open to the public. The surroundings are really beautiful, and it evoked the exact feeling I have when I think about the company. I've always admired the innovation and simplicity of Apple.
 
 In the evening we planned on going to the **NBA game**. It was amazing but expensive, but I thinks thats for all sports in the US. The warriors played against oklahoma and I saw some famous players like Stephen Curry and Draymond Green. What I noticed is that there is al lot more organized around the game.There's animation long before the game starts, like the players intro, fireworks and light shows. During breaks, there's always something to watch. I wonder why this isn't in Europe because I think a lot more people would come to sport events just for the experience.
 
@@ -36,9 +34,9 @@ In the evening we planned on going to the **NBA game**. It was amazing but expen
 
 ## April 5th (Alumni in SF & UC Berkeley)
 
-On this Wednesday, we had the luxury of sleeping in a bit longer after a busy previous day. Our day began at 9 am at storied, a company that previously assisted Belgians in securing jobs in San Francisco. The founder and CEO provided us with an overview of the company, and then we were introduced to two alumni from our school who have been working in San Francisco for almost a decade. First, Christian (ex-Pinterest, now Cambly) gave a presentation, followed by Jens (ex-Stripe, now OpenAI). Both of them spoke about their work in the US and how and why they relocated to the Bay Area. Afterward, we enjoyed a meal and I had the opportunity to ask Christian some questions. This talk was one of the best I've had in a while, and it motivated me to pursue a career in the tech industry.
+On Wednesday, we had the luxury of sleeping a bit longer after a busy previous day. Our day began at 9 am at storied, a company that previously assisted Belgians in securing jobs in San Francisco. The founder and CEO provided us with an overview of the company, and then we were introduced to two alumni from our school who have been working in San Francisco for almost a decade. First, Christian (ex-Pinterest, now Cambly) gave a presentation, followed by Jens (ex-Stripe, now OpenAI). Both of them spoke about their work in the US and how and why they relocated to the Bay Area. Afterwards, we enjoyed a meal and I had the opportunity to ask Christian some questions. This talk was one of the best I've had in a while, and it motivated me to pursue a career in the tech industry.
 
-In the afternoon, we took BART, the local train, to Oakland. There, we visited UC Berkeley and received a guided tour from two French students who study there. I was blown away by how massive the campus was; it was unlike anything I had seen before in Belgium. The campus resembled an entire village, with numerous parks, over ten buildings, and a bustling population of students and staff.
+In the afternoon, we took BART, the local train, to Oakland. There, we visited UC Berkeley and received a guided tour from two French students who study there. I was blown away by how massive the campus was; it was unlike anything I had seen before in Belgium. The campus resembled an entire village, with numerous parks, over ten buildings, and a bustling population of students and staff all together.
 
 At 6 pm, our day came to a close, and we had the evening free. I was accompanied by two friends, and we sought out a place to eat in the busy student neighborhood outside of campus. We chatted with some local students on the street and took the train back to downtown San Francisco.
 
@@ -73,13 +71,13 @@ Once finished, we were free and had dinner at Uncle Vito's Pizzeria, which was v
 ## Alcatraz + Free time
 On Saturday, we had our first full free day. I started the day with a run from the baseball stadium to Pier 39. On the way back to the hostel, I got lost, but I think it was fun and part of the experience. Some people asked, "why do you run on vacation?" Well, I don't think vacation is an excuse to skip your normal exercise routine. Running was a refreshing break after a few busy days and allowed me to explore new sights and neighborhoods.
 
-At 11 am, we took the metro to the baseball stadium. We had bought the cheapest tickets and had a nice experience. The game lasted for 2 and a half hours, and I learned new things because baseball isn't a big sport in Europe.
+At 11 am, we took the metro to the baseball stadium. We had bought the cheapest tickets and had a nice experience. The game lasted for 2 and a half hours, and I learned a lot about the sport because baseball isn't that popular in Europe.
 
-After the game, we went back to the hostel to relax a bit. We closed the day with dinner in the Lower Nob Hill area. Some friends went out clubbing, but I couldn't go because I'm only 20, and in the US, you can only drink alcohol from 21. I once took a sip from a friend's american beer before in a restaurant and found it gross (maybe because I'm Belgian), so I wasn't really upset about it.
+After the game, we went back to the hostel to relax a bit. We closed the day with dinner in the Lower Nob Hill area. Some friends went out clubbing, but I couldn't go because I'm only 20, and in the US, you can only drink alcohol from 21. However, I once took a sip from a friend's american beer before in a restaurant and found it gross, so I wasn't really upset about it.
 
 On Sunday, the 9th, we had our last full day in San Francisco. In the morning, we took the metro and went to the ferry that brought us to Alcatraz. We had an audio tour and hung around the island. It had a long history, but what struck me the most was the smell there. The island has a large number of seabirds like seagulls and pelicans.
 
-Once we were back on the mainland, we walked to Pier 39, a touristic spot with a lot of animation and shops. We had lunch there, and I bought a cap as a remembrance of the trip.
+Once we were back on mainland, we walked to Pier 39, a touristic spot with a lot of animation and shops. We had lunch there, and I bought a new cap as a remembrance of the trip.
 
 We spent the whole afternoon exploring/walking in that area and had a sourdough bowl with soup as dinner, which is apparently a typical local food from San Francisco.
 
@@ -90,7 +88,7 @@ We spent the whole afternoon exploring/walking in that area and had a sourdough 
 &nbsp;
 
 ##  Flights on the mondays
-On Monday, the 3rd of our trip, we took our first flight. We flew with United Airlines and departed from Paris on an 11-hour journey, marking my longest flight to date. Fortunately, we were provided with good food, a helpful crew, and good movie options to pass the time. While the first 8 hours were relatively easy, the final 3 hours proved to be a bit of a struggle. However, I was fortunate enough to have pleasant neighbors during the flight, and was able to chat with them and get to know them better.
+On Monday the 3rd, we took our first flight. We flew with United Airlines and departed from Paris on an 11-hour journey, marking my longest flight to date. Fortunately, we were provided with good food, a helpful crew, and good movie options to pass the time. While the first 8 hours were relatively easy, the final 3 hours proved to be a bit of a struggle. However, I was fortunate enough to have pleasant neighbors during the flight, and was able to chat with them and get to know them better.
 
 The return flight was pretty much the same, although I was able to get a couple of hours sleep.
 
@@ -102,7 +100,7 @@ During my week in San Francisco and the Bay Area, I noticed some small but signi
 
 **Cons:**
 
-The biggest problem in San Francisco is its large population of homeless people. Although there are homeless people in Belgium, they are generally less active. During my stay, I saw homeless people start randomly shouting, coming close to me, being aggressive, and even sticking needles in their arms on random sidewalks. In Belgium, most homeless people simply lie on the ground, sleep, or sit and politely ask for money.
+The biggest problem in San Francisco is its large population of homeless people. Although there are homeless people in Belgium to, they are generally less active. What I mean by that is that during my stay I saw homeless people start randomly shouting, coming close to me, being aggressive, and I saw someone even sticking needles in his arms on a random sidewalk. In Belgium, most homeless people simply lie on the ground, sleep, or sit and politely ask for money.
 
 Another con is that everything in San Francisco and the Bay Area is expensive. As a tourist, you should consider this when planning your trip. While local people earn more, especially in tech, I believe that the percentage of income spent on living expenses is **almost** similar to that of Belgium.
 
