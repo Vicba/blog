@@ -22,7 +22,7 @@ But hey, don't get me wrong, tutorials are not a bad thing at all. Everyone has 
 The fear of forgetting important information can hinder learning. However, with proper prep-research and effective learning strategies, this fear can be minimized.
 
 ### Mimicking vs. Understanding:
-When you mimic something without understanding it, it stops you from being creative. Seek genuine understanding, experiment, and ask questions to level up your creativity and apply knowledge effectively.
+When you mimic something without understanding it, it stops you from being creative. Seek for a good understanding, experiment, and ask questions to level up your creativity and apply knowledge effectively.
 
 ### The Need for Realistic Learning Pace:
 Trying to learn too much too quickly leads to overwhelm. Set realistic goals, break down complex topics, and focus on incremental progress. Compound your learning!
