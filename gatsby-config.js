@@ -12,9 +12,9 @@ module.exports = {
     title: `Welcome to my blog`,
     author: {
       name: `Victor Barra`,
-      summary: `CS student who likes to share his experiences/thoughts.`,
+      summary: `This is the place where I share my experiences/thoughts.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blog by Victor Barra`,
     siteUrl: `https://vicba.github.io/portfolio/`,
     social: {
       twitter: `VictorBarraa`,
