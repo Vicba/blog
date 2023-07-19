@@ -38,6 +38,11 @@ export default function BlogSubscription() {
       }
     
       emailRef.current.value = '';
+
+      // Clear the message after 3 seconds
+      setTimeout(() => {
+        setMessage(null);
+      }, 5000);
     };
 
   return (
