@@ -12,7 +12,7 @@ module.exports = {
     title: `Welcome to my blog`,
     author: {
       name: `Victor Barra`,
-      summary: `This is the place where I share my experiences/thoughts.`,
+      summary: `This is the place where I some of my experiences/thoughts.`,
     },
     description: `Blog by Victor Barra`,
     siteUrl: `https://vicba.github.io/portfolio/`,
@@ -121,10 +121,10 @@ module.exports = {
         icon: `src/images/profile-pic.png`, // This path is relative to the root of the site.
       },
     },
-    'gatsby-plugin-netlify',
+    "gatsby-plugin-netlify",
   ],
 }
 
 require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
-});
+})
