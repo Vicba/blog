@@ -6,6 +6,7 @@ date: "2023-04-29T22:12:03.284Z"
 "Leverage" is a concept that has been stuck in my mind for a while now. This concept can be applied not only in business, but also in any aspect of life. "Leverage" refers to using resources in a way that multiplies their effectiveness. According to entrepreneur and investor Naval Ravikant there are 4 types of leverage: capital, people, technology (code), and media. 
 
 Some of these resources are more readily available than others. For example capital and people are permissioned i.e. you need someone willing to work with you or give you money. Technology and media are permissionless. These are things you can do on your own. You don't need anyone's permission to start a blog or build an app. They are the most accessible and have the potential to reach the largest audience.
+
 ---
 
 
