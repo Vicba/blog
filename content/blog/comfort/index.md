@@ -52,14 +52,14 @@ I also tried Vicio, a fancier and tastier version of McDonald's, where I had to 
 
 During my trip back, I felt really comfortable and confident. I knew what to expect and how to handle things. I felt less introverted and more proactive in what I did. I learned that I can do things on my own, figure things out by myself, talk to strangers, be independent, be alone, and be myself. This turned out to be my best trip ever, even to this day. I would definitely do it again!
 
-<table><tr>
+<!-- <table><tr>
     <td> <video width="320" height="240" controls>
   <source src="content\blog\comfort\videos-images\view.mp4" type="video/mp4">
 </video> </td>
     <td> <video width="320" height="240" controls>
   <source src="content\blog\comfort\videos-images\heli.mp4" type="video/mp4">
 </video> </td>
-</tr></table>
+</tr></table> -->
 
 ### Going to live events
 
