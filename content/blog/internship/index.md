@@ -46,7 +46,7 @@ After several weeks of waiting, I finally got the good news that I was accepted 
 My internship topic is "evaluation of RAG". For people who don't know what RAG is, it's a combination of techniques that generates answers to your question on a given text. The goal of my internship is to evaluate the performance and use the insights to improve it.
 
 <figure>
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LYApKuxzzmvFECqwYk61wg.png" alt="RAG" style="max-width: 500px;">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LYApKuxzzmvFECqwYk61wg.png" alt="RAG" style="max-width: 100%;">
     <figcaption style="color: grey; font-size: 8px;">Source: https://blog.ml6.eu/leveraging-llms-on-your-domain-specific-knowledge-base-4441c8837b47</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ They are very flexible with coming to the office. You come to the office when yo
 
 I'm feeling great about my internship. Looking forward to the next few months! Now at the time of writing this, I start the 2 week easter vacation where I'll mostly work on my bachelor thesis. A little rest before the final sprint of my internship.
 
-<div style="display: flex; gap: 15px">
+<div style="display: flex; flex-wrap: wrap; gap: 15px">
     <img id="gif" src="https://media1.tenor.com/m/DwyZ0JvXGqwAAAAd/im-ryan-the-intern.gif" style="flex: 2; width: 300px;">
     <img id="gif" src="https://media1.tenor.com/m/dEyUG4nwn1gAAAAC/robert-downey-jr-shocked.gif" style="flex: 1; width: 150px;">
 </div>
